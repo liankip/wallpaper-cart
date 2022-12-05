@@ -3,15 +3,10 @@ export default {
   data() {
     return {
       items: [],
-      quantity: 1,
       total: 0,
     }
   },
   methods: {
-    increment() {
-      this.quantity++
-    },
-
     async daftarCheckout() {
       this.items = JSON.parse(localStorage.getItem('produk'))
     },
