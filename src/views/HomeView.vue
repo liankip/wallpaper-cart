@@ -9,7 +9,7 @@ export default {
   },
   methods: {
     async getProduct() {
-      await axios.get("http://localhost:3000/product").then(response => {
+      await axios.get("https://my-json-server.typicode.com/liankip/wallpaper-api/product").then(response => {
         this.items = response.data
       })
     },
