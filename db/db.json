@@ -1,0 +1,84 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "nama": "Wallpaper Dinding Motif Rustic",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/2cbe4267fda00d9bf9b9a4ff8bb39d3b.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 10000,
+      "rating": 4,
+      "review": 39,
+      "baru": true
+    },
+    {
+      "id": 2,
+      "nama": "Wallpaper Dinding Biru Polos",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/961626ebb13ec3b6e4c9726e81f86c2e.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 20000,
+      "rating": 5,
+      "review": 23,
+      "baru": true
+    },
+    {
+      "id": 3,
+      "nama": "Wallpaper Dinding Bunga",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/8548f01766f06afcbfdb08cb0b6205ae?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 30000,
+      "rating": 3,
+      "review": 33,
+      "baru": true
+    },
+    {
+      "id": 4,
+      "nama": "Wallpaper Dinding 3D Plain Wood",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/e4eb8e7d55767234d1f14ffc3a3e09f3.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 40000,
+      "rating": 4,
+      "review": 48,
+      "baru": false
+    },
+    {
+      "id": 5,
+      "nama": "Wallpaper Dinding Motif Luar Angkasa",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/ea65bcdebe5cf5c30fefad3e94074bd3?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 50000,
+      "rating": 5,
+      "review": 59,
+      "baru": false
+    },
+    {
+      "id": 6,
+      "nama": "Wallpaper Dinding Motif Batik",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/a7839e5dd5c1efa2db07ab898c398f09.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 60000,
+      "rating": 4,
+      "review": 55,
+      "baru": false
+    },
+    {
+      "id": 7,
+      "nama": "Wallpaper Dinding 3D Batu Bata",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/3588186536bc2ddd3740c4f0aa4df949.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 70000,
+      "rating": 2,
+      "review": 192,
+      "baru": false
+    },
+    {
+      "id": 8,
+      "nama": "Wallpaper Bata Merah",
+      "deskripsi": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nostrum, architecto exercitationem eos non praesentium dolor eum quas ipsa possimus provident soluta reiciendis quos natus, officia neque a nisi dolorum!",
+      "file_foto": "https://img.my-best.id/press_component/item_part_images/a8aa6439f395ee75fdf8ac6e64804a3a?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+      "harga": 70000,
+      "rating": 4,
+      "review": 294,
+      "baru": false
+    }
+  ]
+}
